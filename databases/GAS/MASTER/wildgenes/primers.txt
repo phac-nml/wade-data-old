@@ -1,0 +1,28 @@
+PCR primers used in this study for detection of macrolide resistance genes
+PMC full text:	
+Antimicrob Agents Chemother. 2008 Mar; 52(3): 1140–1143.
+
+Gene(s)	Primer	Sequence
+erm(TR)	TR-322U	5′-GGGTCAGGAAAAGGACAT-3′
+TR619L	5′-CCTAAAGCTCGTTGATT-3′
+mef(A) and mef(E)	mef-3301U	5′-AGGGCAAGCAGTATCATTAATCA-3′
+mef-3673L	5′-CTGCAAAGACTGACTATAGCCT-3′
+erm(T)	erm(T) forward	5′-CCGCCATTGAAATAGATCCT-3′
+erm(T) reverse	5′-GCTTGATAAAATTGGTTTTTGGA-3′
+
+
+
+SUTCLIFFE ET AL., 1996. AAC (40) 2562-2566
+
+ermA
+TCTAAAAAGCATGTAAAAGAA
+TGATTATAATTATTTGATAGCTTC
+
+ermB
+gaaaaggtactcaaccaaata
+catttgttaaattcatggcaatga
+
+ermC
+TCAAAACATAATATAGATAAA
+TAACTGCTAAATTTGTTATAATCG
+
